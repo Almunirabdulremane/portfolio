@@ -1,5 +1,5 @@
 # portfolio
-projecto criado para apresentar minhas haibilidades na informatica
+projecto criado para apresentar minhas habilidades na informatica
 
 Este e o link para o site do portfolio hospedado:
 https://almunirabdulremane.github.io/portfolio/
